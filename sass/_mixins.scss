@@ -1,0 +1,5 @@
+// transition
+@mixin transition($args...) {
+
+    transition: $args;
+}
